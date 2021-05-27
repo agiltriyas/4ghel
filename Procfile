@@ -1,1 +1,1 @@
-sudo snap install --classic heroku
+web: vendor/bin/heroku-php-apache2 public/
